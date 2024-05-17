@@ -9,3 +9,5 @@ mi hermano me esta ensenio a programar
 - agregar cambios: git add .
 - comentar cambios: git commit -m "texto a elegir"
 - subir cambios: git push
+
+hola papa
