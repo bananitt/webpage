@@ -1,8 +1,8 @@
-mi pagina web 
+mi pagina web
 
 soy hanna tapia y tengo 1 perro
 
-mi hermano me esta ensenio a programar 
+mi hermano me esta ensenio a programar
 
 - actualizar: git pull
 - ver estado: git status
@@ -11,3 +11,5 @@ mi hermano me esta ensenio a programar
 - subir cambios: git push
 
 hola papa
+
+soy de Kappa Kappa Town
